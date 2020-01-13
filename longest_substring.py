@@ -22,7 +22,7 @@ def longest_substring(s: str) -> int:
     return max
 
 # O(n) Solution Below:
-def lengthOfLongestSubstring(self, s: str) -> int:
+def lengthOfLongestSubstring(s: str) -> int:
 
 # initialize max_length. to compare and start pointer to traverse
     max_length = start = 0
